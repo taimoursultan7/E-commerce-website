@@ -40,3 +40,10 @@ E-commerce-website/
 │ └── images/
 └── README.md
 
+
+📁 Step 1: Go into Project Folder
+  cd E-commerce-website.
+  npm install.
+  npm run dev.
+
+  .....................................................................................................................
